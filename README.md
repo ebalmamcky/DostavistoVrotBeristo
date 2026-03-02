@@ -1,4 +1,6 @@
 # DostavistoVrotBeristo
+<img width="511" height="358" alt="image" src="https://github.com/user-attachments/assets/50dc9d07-2adf-4c9f-ac47-19dc3f186bd6" />
+
 ## Титульный лист
 *   Название проекта: `Платформа доставки еды "DostavistoVrotBeristo"`
 *   Состав команды:
